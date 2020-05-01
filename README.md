@@ -1,2 +1,0 @@
-# tylerdrobbin.com
-static website
